@@ -1,0 +1,10 @@
+[{ "Id":100, "Ciudad":"Valladolid","TVentas":65292 },
+ { "Id":101, "Ciudad":"Madrid","TVentas":83444 },
+ { "Id":102, "Ciudad":"Palencia","TVentas":11345 },
+ { "Id":103, "Ciudad":"Sevilla","TVentas":42560 },
+ { "Id":104, "Ciudad":"Oviedo","TVentas":18100 },
+ { "Id":105, "Ciudad":"Barcelona","TVentas":53040 },
+ { "Id":106, "Ciudad":"Pamplona","TVentas":54060 },
+ { "Id":107, "Ciudad":"Malaga","TVentas":71550 },
+ { "Id":108, "Ciudad":"Salamanca","TVentas":20200 }
+]

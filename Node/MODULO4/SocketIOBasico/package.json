@@ -1,0 +1,15 @@
+{
+  "name": "SocketioBasico",
+  "version": "0.0.0",
+  "description": "SocketioBasico",
+  "main": "app.js",
+  "author": {
+    "name": "Marino",
+    "email": "marino@elavefenix.net"
+  },
+  "dependencies": {
+    "express3": "3.21.1",
+    "socket.io": "^1.3.5", 
+    "ejs": "^2.3.3"
+  }
+}

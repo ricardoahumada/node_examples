@@ -1,0 +1,90 @@
+C:\Users\MARINO\Desktop\SignalR_Demo1\SignalR_Demo1\bin\SignalR_Demo1.dll.config
+C:\Users\MARINO\Desktop\SignalR_Demo1\SignalR_Demo1\bin\SignalR_Demo1.dll
+C:\Users\MARINO\Desktop\SignalR_Demo1\SignalR_Demo1\bin\SignalR_Demo1.pdb
+C:\Users\MARINO\Desktop\SignalR_Demo1\SignalR_Demo1\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\MARINO\Desktop\SignalR_Demo1\SignalR_Demo1\bin\Microsoft.AspNet.SignalR.Owin.dll
+C:\Users\MARINO\Desktop\SignalR_Demo1\SignalR_Demo1\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\MARINO\Desktop\SignalR_Demo1\SignalR_Demo1\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\MARINO\Desktop\SignalR_Demo1\SignalR_Demo1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\MARINO\Desktop\SignalR_Demo1\SignalR_Demo1\bin\Newtonsoft.Json.dll
+C:\Users\MARINO\Desktop\SignalR_Demo1\SignalR_Demo1\bin\Owin.dll
+C:\Users\MARINO\Desktop\SignalR_Demo1\SignalR_Demo1\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\MARINO\Desktop\SignalR_Demo1\SignalR_Demo1\bin\Microsoft.AspNet.SignalR.Owin.xml
+C:\Users\MARINO\Desktop\SignalR_Demo1\SignalR_Demo1\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\MARINO\Desktop\SignalR_Demo1\SignalR_Demo1\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\MARINO\Desktop\SignalR_Demo1\SignalR_Demo1\bin\Newtonsoft.Json.xml
+C:\Users\MARINO\Desktop\SignalR_Demo1\SignalR_Demo1\obj\Debug\SignalR_Demo1.csprojResolveAssemblyReference.cache
+C:\Users\MARINO\Desktop\SignalR_Demo1\SignalR_Demo1\obj\Debug\SignalR_Demo1.dll
+C:\Users\MARINO\Desktop\SignalR_Demo1\SignalR_Demo1\obj\Debug\SignalR_Demo1.pdb
+N:\_DESARROLLO\Publicaciones\LIBROS_MPM\Guia_HTML5_Av\Libro_HTML5_Av\DOC\Ejemplos\_LIBRO\SignalR_Demo1\SignalR_Demo1\bin\SignalR_Demo1.dll.config
+N:\_DESARROLLO\Publicaciones\LIBROS_MPM\Guia_HTML5_Av\Libro_HTML5_Av\DOC\Ejemplos\_LIBRO\SignalR_Demo1\SignalR_Demo1\bin\SignalR_Demo1.dll
+N:\_DESARROLLO\Publicaciones\LIBROS_MPM\Guia_HTML5_Av\Libro_HTML5_Av\DOC\Ejemplos\_LIBRO\SignalR_Demo1\SignalR_Demo1\bin\SignalR_Demo1.pdb
+N:\_DESARROLLO\Publicaciones\LIBROS_MPM\Guia_HTML5_Av\Libro_HTML5_Av\DOC\Ejemplos\_LIBRO\SignalR_Demo1\SignalR_Demo1\bin\Microsoft.AspNet.SignalR.Core.dll
+N:\_DESARROLLO\Publicaciones\LIBROS_MPM\Guia_HTML5_Av\Libro_HTML5_Av\DOC\Ejemplos\_LIBRO\SignalR_Demo1\SignalR_Demo1\bin\Microsoft.AspNet.SignalR.Owin.dll
+N:\_DESARROLLO\Publicaciones\LIBROS_MPM\Guia_HTML5_Av\Libro_HTML5_Av\DOC\Ejemplos\_LIBRO\SignalR_Demo1\SignalR_Demo1\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+N:\_DESARROLLO\Publicaciones\LIBROS_MPM\Guia_HTML5_Av\Libro_HTML5_Av\DOC\Ejemplos\_LIBRO\SignalR_Demo1\SignalR_Demo1\bin\Microsoft.Owin.Host.SystemWeb.dll
+N:\_DESARROLLO\Publicaciones\LIBROS_MPM\Guia_HTML5_Av\Libro_HTML5_Av\DOC\Ejemplos\_LIBRO\SignalR_Demo1\SignalR_Demo1\bin\Microsoft.Web.Infrastructure.dll
+N:\_DESARROLLO\Publicaciones\LIBROS_MPM\Guia_HTML5_Av\Libro_HTML5_Av\DOC\Ejemplos\_LIBRO\SignalR_Demo1\SignalR_Demo1\bin\Newtonsoft.Json.dll
+N:\_DESARROLLO\Publicaciones\LIBROS_MPM\Guia_HTML5_Av\Libro_HTML5_Av\DOC\Ejemplos\_LIBRO\SignalR_Demo1\SignalR_Demo1\bin\Owin.dll
+N:\_DESARROLLO\Publicaciones\LIBROS_MPM\Guia_HTML5_Av\Libro_HTML5_Av\DOC\Ejemplos\_LIBRO\SignalR_Demo1\SignalR_Demo1\bin\Microsoft.AspNet.SignalR.Core.xml
+N:\_DESARROLLO\Publicaciones\LIBROS_MPM\Guia_HTML5_Av\Libro_HTML5_Av\DOC\Ejemplos\_LIBRO\SignalR_Demo1\SignalR_Demo1\bin\Microsoft.AspNet.SignalR.Owin.xml
+N:\_DESARROLLO\Publicaciones\LIBROS_MPM\Guia_HTML5_Av\Libro_HTML5_Av\DOC\Ejemplos\_LIBRO\SignalR_Demo1\SignalR_Demo1\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+N:\_DESARROLLO\Publicaciones\LIBROS_MPM\Guia_HTML5_Av\Libro_HTML5_Av\DOC\Ejemplos\_LIBRO\SignalR_Demo1\SignalR_Demo1\bin\Microsoft.Owin.Host.SystemWeb.xml
+N:\_DESARROLLO\Publicaciones\LIBROS_MPM\Guia_HTML5_Av\Libro_HTML5_Av\DOC\Ejemplos\_LIBRO\SignalR_Demo1\SignalR_Demo1\bin\Newtonsoft.Json.xml
+N:\_DESARROLLO\Publicaciones\LIBROS_MPM\Guia_HTML5_Av\Libro_HTML5_Av\DOC\Ejemplos\_LIBRO\SignalR_Demo1\SignalR_Demo1\obj\Debug\SignalR_Demo1.csprojResolveAssemblyReference.cache
+N:\_DESARROLLO\Publicaciones\LIBROS_MPM\Guia_HTML5_Av\Libro_HTML5_Av\DOC\Ejemplos\_LIBRO\SignalR_Demo1\SignalR_Demo1\obj\Debug\SignalR_Demo1.dll
+N:\_DESARROLLO\Publicaciones\LIBROS_MPM\Guia_HTML5_Av\Libro_HTML5_Av\DOC\Ejemplos\_LIBRO\SignalR_Demo1\SignalR_Demo1\obj\Debug\SignalR_Demo1.pdb
+C:\Users\MARINO\Desktop\HTML_Cand\Ejemplos\JavaScript\SignalR_Demo1\SignalR_Demo1\bin\SignalR_Demo1.dll.config
+C:\Users\MARINO\Desktop\HTML_Cand\Ejemplos\JavaScript\SignalR_Demo1\SignalR_Demo1\bin\SignalR_Demo1.dll
+C:\Users\MARINO\Desktop\HTML_Cand\Ejemplos\JavaScript\SignalR_Demo1\SignalR_Demo1\bin\SignalR_Demo1.pdb
+C:\Users\MARINO\Desktop\HTML_Cand\Ejemplos\JavaScript\SignalR_Demo1\SignalR_Demo1\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\MARINO\Desktop\HTML_Cand\Ejemplos\JavaScript\SignalR_Demo1\SignalR_Demo1\bin\Microsoft.AspNet.SignalR.Owin.dll
+C:\Users\MARINO\Desktop\HTML_Cand\Ejemplos\JavaScript\SignalR_Demo1\SignalR_Demo1\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\MARINO\Desktop\HTML_Cand\Ejemplos\JavaScript\SignalR_Demo1\SignalR_Demo1\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\MARINO\Desktop\HTML_Cand\Ejemplos\JavaScript\SignalR_Demo1\SignalR_Demo1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\MARINO\Desktop\HTML_Cand\Ejemplos\JavaScript\SignalR_Demo1\SignalR_Demo1\bin\Newtonsoft.Json.dll
+C:\Users\MARINO\Desktop\HTML_Cand\Ejemplos\JavaScript\SignalR_Demo1\SignalR_Demo1\bin\Owin.dll
+C:\Users\MARINO\Desktop\HTML_Cand\Ejemplos\JavaScript\SignalR_Demo1\SignalR_Demo1\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\MARINO\Desktop\HTML_Cand\Ejemplos\JavaScript\SignalR_Demo1\SignalR_Demo1\bin\Microsoft.AspNet.SignalR.Owin.xml
+C:\Users\MARINO\Desktop\HTML_Cand\Ejemplos\JavaScript\SignalR_Demo1\SignalR_Demo1\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\MARINO\Desktop\HTML_Cand\Ejemplos\JavaScript\SignalR_Demo1\SignalR_Demo1\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\MARINO\Desktop\HTML_Cand\Ejemplos\JavaScript\SignalR_Demo1\SignalR_Demo1\bin\Newtonsoft.Json.xml
+C:\Users\MARINO\Desktop\HTML_Cand\Ejemplos\JavaScript\SignalR_Demo1\SignalR_Demo1\obj\Debug\SignalR_Demo1.csprojResolveAssemblyReference.cache
+C:\Users\MARINO\Desktop\HTML_Cand\Ejemplos\JavaScript\SignalR_Demo1\SignalR_Demo1\obj\Debug\SignalR_Demo1.dll
+C:\Users\MARINO\Desktop\HTML_Cand\Ejemplos\JavaScript\SignalR_Demo1\SignalR_Demo1\obj\Debug\SignalR_Demo1.pdb
+G:\NetMind\Cursos\JJD 165\Curso Sevilla\Demos y Ejercicios\3-Javascript\WebSockets\SignalR_Demo1\SignalR_Demo1\bin\SignalR_Demo1.dll.config
+G:\NetMind\Cursos\JJD 165\Curso Sevilla\Demos y Ejercicios\3-Javascript\WebSockets\SignalR_Demo1\SignalR_Demo1\bin\SignalR_Demo1.dll
+G:\NetMind\Cursos\JJD 165\Curso Sevilla\Demos y Ejercicios\3-Javascript\WebSockets\SignalR_Demo1\SignalR_Demo1\bin\SignalR_Demo1.pdb
+G:\NetMind\Cursos\JJD 165\Curso Sevilla\Demos y Ejercicios\3-Javascript\WebSockets\SignalR_Demo1\SignalR_Demo1\bin\Microsoft.AspNet.SignalR.Core.dll
+G:\NetMind\Cursos\JJD 165\Curso Sevilla\Demos y Ejercicios\3-Javascript\WebSockets\SignalR_Demo1\SignalR_Demo1\bin\Microsoft.AspNet.SignalR.Owin.dll
+G:\NetMind\Cursos\JJD 165\Curso Sevilla\Demos y Ejercicios\3-Javascript\WebSockets\SignalR_Demo1\SignalR_Demo1\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+G:\NetMind\Cursos\JJD 165\Curso Sevilla\Demos y Ejercicios\3-Javascript\WebSockets\SignalR_Demo1\SignalR_Demo1\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\NetMind\Cursos\JJD 165\Curso Sevilla\Demos y Ejercicios\3-Javascript\WebSockets\SignalR_Demo1\SignalR_Demo1\bin\Microsoft.Web.Infrastructure.dll
+G:\NetMind\Cursos\JJD 165\Curso Sevilla\Demos y Ejercicios\3-Javascript\WebSockets\SignalR_Demo1\SignalR_Demo1\bin\Newtonsoft.Json.dll
+G:\NetMind\Cursos\JJD 165\Curso Sevilla\Demos y Ejercicios\3-Javascript\WebSockets\SignalR_Demo1\SignalR_Demo1\bin\Owin.dll
+G:\NetMind\Cursos\JJD 165\Curso Sevilla\Demos y Ejercicios\3-Javascript\WebSockets\SignalR_Demo1\SignalR_Demo1\bin\Microsoft.AspNet.SignalR.Core.xml
+G:\NetMind\Cursos\JJD 165\Curso Sevilla\Demos y Ejercicios\3-Javascript\WebSockets\SignalR_Demo1\SignalR_Demo1\bin\Microsoft.AspNet.SignalR.Owin.xml
+G:\NetMind\Cursos\JJD 165\Curso Sevilla\Demos y Ejercicios\3-Javascript\WebSockets\SignalR_Demo1\SignalR_Demo1\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+G:\NetMind\Cursos\JJD 165\Curso Sevilla\Demos y Ejercicios\3-Javascript\WebSockets\SignalR_Demo1\SignalR_Demo1\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\NetMind\Cursos\JJD 165\Curso Sevilla\Demos y Ejercicios\3-Javascript\WebSockets\SignalR_Demo1\SignalR_Demo1\bin\Newtonsoft.Json.xml
+G:\NetMind\Cursos\JJD 165\Curso Sevilla\Demos y Ejercicios\3-Javascript\WebSockets\SignalR_Demo1\SignalR_Demo1\obj\Debug\SignalR_Demo1.csprojResolveAssemblyReference.cache
+G:\NetMind\Cursos\JJD 165\Curso Sevilla\Demos y Ejercicios\3-Javascript\WebSockets\SignalR_Demo1\SignalR_Demo1\obj\Debug\SignalR_Demo1.dll
+G:\NetMind\Cursos\JJD 165\Curso Sevilla\Demos y Ejercicios\3-Javascript\WebSockets\SignalR_Demo1\SignalR_Demo1\obj\Debug\SignalR_Demo1.pdb
+F:\20480-NetMind\Demos\4-JavaScript\APIs-JavaScript\Web Sockets\SignalR_Demo___\SignalR_Demo1\bin\SignalR_Demo1.dll.config
+F:\20480-NetMind\Demos\4-JavaScript\APIs-JavaScript\Web Sockets\SignalR_Demo___\SignalR_Demo1\bin\SignalR_Demo1.dll
+F:\20480-NetMind\Demos\4-JavaScript\APIs-JavaScript\Web Sockets\SignalR_Demo___\SignalR_Demo1\bin\SignalR_Demo1.pdb
+F:\20480-NetMind\Demos\4-JavaScript\APIs-JavaScript\Web Sockets\SignalR_Demo___\SignalR_Demo1\bin\Microsoft.AspNet.SignalR.Core.dll
+F:\20480-NetMind\Demos\4-JavaScript\APIs-JavaScript\Web Sockets\SignalR_Demo___\SignalR_Demo1\bin\Microsoft.AspNet.SignalR.Owin.dll
+F:\20480-NetMind\Demos\4-JavaScript\APIs-JavaScript\Web Sockets\SignalR_Demo___\SignalR_Demo1\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+F:\20480-NetMind\Demos\4-JavaScript\APIs-JavaScript\Web Sockets\SignalR_Demo___\SignalR_Demo1\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\20480-NetMind\Demos\4-JavaScript\APIs-JavaScript\Web Sockets\SignalR_Demo___\SignalR_Demo1\bin\Microsoft.Web.Infrastructure.dll
+F:\20480-NetMind\Demos\4-JavaScript\APIs-JavaScript\Web Sockets\SignalR_Demo___\SignalR_Demo1\bin\Newtonsoft.Json.dll
+F:\20480-NetMind\Demos\4-JavaScript\APIs-JavaScript\Web Sockets\SignalR_Demo___\SignalR_Demo1\bin\Owin.dll
+F:\20480-NetMind\Demos\4-JavaScript\APIs-JavaScript\Web Sockets\SignalR_Demo___\SignalR_Demo1\bin\Microsoft.AspNet.SignalR.Core.xml
+F:\20480-NetMind\Demos\4-JavaScript\APIs-JavaScript\Web Sockets\SignalR_Demo___\SignalR_Demo1\bin\Microsoft.AspNet.SignalR.Owin.xml
+F:\20480-NetMind\Demos\4-JavaScript\APIs-JavaScript\Web Sockets\SignalR_Demo___\SignalR_Demo1\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+F:\20480-NetMind\Demos\4-JavaScript\APIs-JavaScript\Web Sockets\SignalR_Demo___\SignalR_Demo1\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\20480-NetMind\Demos\4-JavaScript\APIs-JavaScript\Web Sockets\SignalR_Demo___\SignalR_Demo1\bin\Newtonsoft.Json.xml
+F:\20480-NetMind\Demos\4-JavaScript\APIs-JavaScript\Web Sockets\SignalR_Demo___\SignalR_Demo1\obj\Debug\SignalR_Demo1.csprojResolveAssemblyReference.cache
+F:\20480-NetMind\Demos\4-JavaScript\APIs-JavaScript\Web Sockets\SignalR_Demo___\SignalR_Demo1\obj\Debug\SignalR_Demo1.dll
+F:\20480-NetMind\Demos\4-JavaScript\APIs-JavaScript\Web Sockets\SignalR_Demo___\SignalR_Demo1\obj\Debug\SignalR_Demo1.pdb

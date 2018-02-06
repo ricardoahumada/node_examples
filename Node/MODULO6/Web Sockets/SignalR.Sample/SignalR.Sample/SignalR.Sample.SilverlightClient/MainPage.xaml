@@ -1,0 +1,30 @@
+﻿<UserControl x:Class="SignalR.Sample.SilverlightClient.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    d:DesignHeight="600" d:DesignWidth="800">
+
+    <Grid x:Name="LayoutRoot" Background="White">
+        <StackPanel Orientation="Vertical">
+            <TextBlock FontSize="16" >
+<LineBreak/>Quick steps to write a SignalR Silverlight client
+<LineBreak/>
+<LineBreak/><Run Text="  "/>1. Create a "Silverlight Application" project
+<LineBreak/><Run Text="  "/>2. Add NuGet packages:
+<LineBreak/><Run Text="      "/>- Microsoft ASP.NET SignalR Client
+<LineBreak/><Run Text="      "/>- Async Targeting Pack for Visual Studio 11
+<LineBreak/><Run Text="  "/>3. Create your data types (DataModel.cs)
+<LineBreak/><Run Text="  "/>4. Create your SignalR Client (Client.cs)
+<LineBreak/><Run Text="  "/>5. Navigate to a website: http://localhost:18628/SignalR.Sample.SilverlightClientTestPage.aspx
+<LineBreak/>
+            </TextBlock>
+            <TextBox Name="ResponseText" Text=""></TextBox>
+            <TextBox Name="ResponseAsyncText" Text=""></TextBox>
+            <TextBox Name="OthersCallbackText" Text=""></TextBox>
+            <TextBox Name="BroadcastText" Text=""></TextBox>
+            <TextBox Name="BroadcastToGroupText" Text=""></TextBox>
+        </StackPanel>
+    </Grid>
+</UserControl>

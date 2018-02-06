@@ -1,0 +1,20 @@
+﻿<!DOCTYPE html>
+<html lang="es-es">
+<head>
+    <title>Acceso a ventas por provincias (JSON)</title>
+    <meta charset="UTF-8"/>
+    <script src="AJAXJavaScript.js"></script>
+    <link rel="stylesheet" href="AJAXJavaScript.css" />
+</head>
+<body>
+    <h2>Demo de carga asíncrona de datos JSON</h2>
+    <input type="button" name="btnCargaNivel1" value="Cargar Datos (Llamada Nivel 1)" 
+           onclick="leerVentas_Nivel_1()" />
+    <input type="button" name="btnCargaNivel2" value="Cargar Datos (Llamada Nivel 2)"
+           onclick="leerVentas_Nivel_2()" />
+    <hr />
+    <h3>Ventas por Provincias</h3>
+    <div id="DIV_ventas">
+    </div> 
+</body>
+</html>

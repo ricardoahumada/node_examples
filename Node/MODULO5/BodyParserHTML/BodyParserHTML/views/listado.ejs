@@ -1,0 +1,10 @@
+﻿<h3>Listado de personas</h3>
+<ul>
+  <% for(var i=0; i<listaPersonas.length; i++) { %>
+    <li>
+      <%= listaPersonas[i]._doc.nombre %>
+      <%= listaPersonas[i]._doc.edad %>
+      <%= listaPersonas[i]._doc.retirado %>
+    </li>
+    <% } %>
+</ul>

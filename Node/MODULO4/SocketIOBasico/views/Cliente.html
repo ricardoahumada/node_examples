@@ -1,0 +1,28 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+</head>
+<body>
+    <h1>Demo de cliente de Socket.IO</h1>
+    <div id="mensajeria"></div>
+    <script src="/socket.io/socket.io.js"></script>
+    <script src="//code.jquery.com/jquery-1.11.3.min.js"></script>
+    <script>
+        //var username = "marino";
+        // Esto conecta el cliente con el servidor
+        var websocket = io.connect();
+        $(document).ready(function () {
+            // Lo interesante desde el punto de vista
+            // de programación es que el nombre del "evento"
+            // puede personalizarse. Solo debe coincidir 
+            // en cliente y servidor.
+            websocket.emit("mensaje");
+            websocket.on("mensajeServidor", function (msgServidor) {
+                $("#mensajeria").append('<p>' + msgServidor + '</p>');
+            });
+        });
+    </script>
+</body>
+</html>

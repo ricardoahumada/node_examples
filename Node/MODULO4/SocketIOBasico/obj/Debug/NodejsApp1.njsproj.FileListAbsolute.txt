@@ -1,0 +1,2 @@
+C:\Users\MARINO\Desktop\Node\DEMOS\NodeMVA-master\SocketIOBasico\bin\Microsoft.NodejsTools.WebRole.dll
+G:\NetMind\Cursos\NODE\DEMOS\SocketIOBasico\bin\Microsoft.NodejsTools.WebRole.dll

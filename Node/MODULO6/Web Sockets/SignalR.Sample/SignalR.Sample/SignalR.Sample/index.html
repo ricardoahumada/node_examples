@@ -1,0 +1,38 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>SignalR.Sample</title>
+    <script src="Scripts/jquery-1.6.4-vsdoc.js"></script>
+    <script src="Scripts/jquery-1.6.4.js"></script>
+    <script src="Scripts/jquery-1.6.4.min.js"></script>
+    <script src="Scripts/jquery.signalR-1.0.1.js"></script>
+    <script src="Scripts/jquery.signalR-1.0.1.min.js"></script>
+    <script src="signalr/hubs"></script>
+    <script src="SampleHub.js"></script>
+</head>
+<body>
+    <h1>Quick steps to write a SignalR web application</h1>
+    <pre>
+    1. Create an "ASP.NET Empty Web Application" project
+    2. Add NuGet packages:
+        - Microsoft ASP.NET SignalR SystemWeb
+        - Microsoft ASP.NET SignalR JS
+    3. Configure SignalR
+        - RouteConfig.cs
+        - SignalRConfig.cs
+        - Global.asax
+    4. Create your data types (DataModel.cs)
+    5. Create your SignalR Service (BackgroundThread.cs, SampleHub.cs)
+    6. Create your SignalR Client (SampleHub.js, index.html)
+    7. Launch web application and play with your real time app!
+    </pre>
+
+    <div id="ResponseText"></div>
+    <div id="ResponseAsyncText"></div>
+    <div id="OthersCallbackText"></div>
+    <div id="BroadcastText"></div>
+    <div id="BroadcastToGroupText"></div>
+
+</body>
+</html>
+

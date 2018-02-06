@@ -1,0 +1,43 @@
+Statistical profiling result from isolate-000001C3041461D0-v8.log, (15390 ticks, 4 unaccounted, 0 excluded).
+
+ [Shared libraries]:
+   ticks  total  nonlib   name
+  15233   99.0%          C:\Program Files\nodejs\node.exe
+    140    0.9%          C:\WINDOWS\SYSTEM32\ntdll.dll
+      8    0.1%          C:\WINDOWS\System32\KERNEL32.DLL
+      4    0.0%          C:\Program Files\Bitdefender Antivirus Free\atcuf\262824383465032704\atcuf64.dll
+
+ [JavaScript]:
+   ticks  total  nonlib   name
+      1    0.0%   20.0%  LazyCompile: ~slowToString buffer.js:420:22
+
+ [C++]:
+   ticks  total  nonlib   name
+
+ [Summary]:
+   ticks  total  nonlib   name
+      1    0.0%   20.0%  JavaScript
+      0    0.0%    0.0%  C++
+      0    0.0%    0.0%  GC
+  15385  100.0%          Shared libraries
+      4    0.0%          Unaccounted
+
+ [C++ entry points]:
+   ticks    cpp   total   name
+
+ [Bottom up (heavy) profile]:
+  Note: percentage shows a share of a particular caller in the total
+  amount of its parent calls.
+  Callers occupying less than 2.0% are not shown.
+
+   ticks parent  name
+  15233   99.0%  C:\Program Files\nodejs\node.exe
+  15221   99.9%    C:\Program Files\nodejs\node.exe
+  15155   99.6%      LazyCompile: ~pbkdf2 crypto.js:571:16
+  10328   68.1%        LazyCompile: ~exports.pbkdf2Sync crypto.js:562:30
+  10328  100.0%          LazyCompile: ~hash D:\Shared\MyFiles\Labs\Node\Profiling\server.js:3:14
+  10328  100.0%            Function: ~<anonymous> D:\Shared\MyFiles\Labs\Node\Profiling\server.js:1:11
+   4827   31.9%        LazyCompile: *hash D:\Shared\MyFiles\Labs\Node\Profiling\server.js:3:14
+   4827  100.0%          Function: ~<anonymous> D:\Shared\MyFiles\Labs\Node\Profiling\server.js:1:11
+   4827  100.0%            LazyCompile: ~Module._compile module.js:510:37
+

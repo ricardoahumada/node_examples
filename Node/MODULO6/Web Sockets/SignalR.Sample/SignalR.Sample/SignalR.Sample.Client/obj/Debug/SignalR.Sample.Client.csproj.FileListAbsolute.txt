@@ -1,0 +1,1 @@
+C:\Users\Marino\Desktop\SignalR.Sample\SignalR.Sample\SignalR.Sample.Client\bin\Debug\SignalR.Sample.Client.exe.config

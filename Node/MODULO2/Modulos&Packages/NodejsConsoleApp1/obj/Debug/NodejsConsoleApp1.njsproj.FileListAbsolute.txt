@@ -1,0 +1,1 @@
+c:\users\marino\documents\visual studio 2015\Projects\NodejsConsoleApp1\NodejsConsoleApp1\bin\Microsoft.NodejsTools.WebRole.dll

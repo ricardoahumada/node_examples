@@ -1,0 +1,61 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title>Cliente del Chat con SignalR</title>
+    <style type="text/css">
+        .Contenedor {
+            background-color: #99CCFF;
+            border: thick solid #808080;
+            padding: 20px;
+            margin: 20px;
+        }
+    </style>
+
+</head>
+<body>
+<div class="Contenedor">
+    <input type="text" id="Mensaje" />
+    <input type="button" id="enviarMensaje" value="Enviar" />
+    <input type="hidden" id="mostrarNombre" />
+    <ul id="discusion"></ul>
+</div>
+<!--Scripts -->
+<!--Referencia a jQuery-->
+<script src="/Scripts/jquery-1.8.2.min.js"></script>
+<!--Referencia a SignalR -->
+<script src="/Scripts/jquery.signalR-1.0.0.js"></script>
+<!--Referencia al script SignalR hub autogenerado. -->
+<script src="/signalr/hubs"></script>
+<!--Proceso que actualiza la página y envía Mensajes.-->
+<script type="text/javascript">
+    $(function () {
+        // Declara un proxy para referenciar el hub.
+        var chat = $.connection.chatHub;
+        // Crea una funcion que el Hub pueda llamar para enviar Mensajes.
+        chat.client.enviarMensaje = function (nombre, mensaje) {
+            // Crea elementos del DOM para el nombre y el Mensaje.
+            var etiquetaNombre = $('<div />').text(nombre).html();
+            var etiquetaMensaje = $('<div />').text(mensaje).html();
+            // Añade el Mensaje a la página.
+            $('#discusion').append('<li><strong>' + etiquetaNombre
+                + '</strong>:&nbsp;&nbsp;' + etiquetaMensaje + '</li>');
+        };
+        // Solicita el nombre del usuario para añadirlo a los Mensajes.
+        $('#mostrarNombre').val(prompt('Nombre:', ''));
+        // Sitúa el foco en la caja de entrada.
+        $('#Mensaje').focus();
+        // Inicia la conexión.
+        $.connection.hub.start().done(function () {
+            $('#enviarMensaje').click(function () {
+                // Llama al método "Enviar" del hub. 
+                // (Nótese que el nombre va en minúsculas)
+                chat.server.enviar($('#mostrarNombre').val(), $('#Mensaje').val());
+                // Limpia la caja de texto y reubica el foco.
+                $('#Mensaje').val('').focus();
+            });
+        });
+    });
+</script>
+</body>
+</html>
